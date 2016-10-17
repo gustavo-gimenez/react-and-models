@@ -1,0 +1,23 @@
+{
+  "name": "vdom-lab",
+  "version": "1.0.0",
+  "description": "This is just for laboratory test propouse for vdom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavo-gimenez/vdom-lab.git"
+  },
+  "author": "Gustavo Gimenez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavo-gimenez/vdom-lab/issues"
+  },
+  "homepage": "https://github.com/gustavo-gimenez/vdom-lab#readme",
+  "dependencies": {
+    "virtual-dom": "^2.1.1",
+    "virtual-html": "^2.0.0"
+  }
+}
